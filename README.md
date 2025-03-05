@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @tthuyanh22
-- 👀 I’m interested in finance, financial modeling, banking, money markets, risk management, macroeconomics etc.
-- 🌱 I’m currently second-year student in Quantitative Finance at University of Milan
+- 👀 I’m interested in finance, quantitative analysis, risk management, risk modeling, financial modeling, banking, money markets,  macroeconomics, etc.
+- 🌱 I’m currently second-year student in Quantitative Finance at the University of Milan.
